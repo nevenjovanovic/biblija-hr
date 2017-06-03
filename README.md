@@ -10,6 +10,7 @@ Source of the digital edition is [THE UNBOUND BIBLE (www.unboundbible.org)](http
 
 * [Zefania XML on Sourceforge](https://sourceforge.net/projects/zefania-sharp/files/)
 * [kohelet-net-admin/zefania-xml-bibles](https://github.com/kohelet-net-admin/zefania-xml-bibles)
+* [Croatian Bible](http://www.hbk.hr/biblija/search.php) (Croatian Bishops' Conference)
 
 ## License
 
